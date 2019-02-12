@@ -16,6 +16,8 @@ options.binary_location = r"/usr/bin/chromium-browser"
 driver = webdriver.Chrome(chrome_options=options)
 # </CHROME INIT>
 
+
+# replace this link with your own
 link = "https://www.youtube.com/playlist?list=PLyfV9MvIdnbaNQRKx5Lv95wDXYofI5jfW"
 
 
