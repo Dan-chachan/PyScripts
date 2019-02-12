@@ -1,3 +1,6 @@
+This script lets you download playlists from YouTube in the form of mp3s via an online video converter.
 
 
-unzip the venv zip into this folder and run main.py
+1. open main.py and replace the link with your own
+2. unzip the venv zip into this folder
+3. run main.py
